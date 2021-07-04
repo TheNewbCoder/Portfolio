@@ -1,0 +1,25 @@
+/*font-family: 'Playfair Display', serif;*/
+
+html{
+    box-sizing: border-box;
+    font-size: 62,5%;
+    scroll-behavior: smooth;
+    
+}
+
+/*navsection*/
+#navbar{
+    font-family: 'Playfair Display', serif;
+    position: fixed;
+    top: 0;
+    display: flex;
+    
+}
+
+
+
+
+/*Projectsection*/
+
+
+/*Contactsection*/
