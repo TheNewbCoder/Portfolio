@@ -180,3 +180,18 @@ img.project-tile {
   padding: 0 2rem;
   background: var(--main-gray);
 }
+
+/*footersection*/
+
+.footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  height: 30vh;
+  padding: 0 2rem;
+  background: var(--main-gray);
+
+}
